@@ -1,4 +1,4 @@
-                                                                                 # Hey, I'm Indraneel 👋 
+                                                            Hey, I'm Indraneel 👋 
 
 🚀 **AI/ML Explorer** | Blending **data, devices, and decisions** into intelligent systems  
 📍 Hyderabad, India  
@@ -44,7 +44,7 @@ AI + IoT system that optimizes **irrigation, soil health monitoring, and plant d
 Combines predictive analytics and automation for efficient resource management and improved yield.  
 
 **Tools Used:** Python, TensorFlow, OpenCV, Arduino, Raspberry Pi, IoT Sensors  
-🔗 [GitHub Repository](https://github.com/yourusername/your-repo-name)  
+🔗 [GitHub Repository](https://github.com/Indraneel-Pothuri/Domestic-Farming-Solutions)  
 
 ---
 
@@ -60,7 +60,7 @@ A text analytics pipeline that classifies restaurant feedback into positive, neu
 
 ### 📫 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/indraneel-pothuri-3506b22b9/)  
-💻 [GitHub](https://github.com/Indraneel-Pothuri)  
-📧 [yourmail@gmail.com](mailto:indraneelpothuri@gmail.com)  
+💻 [GitHub](https://github.com/)  
+📧 [indraneelpothuri@gmail.com](mailto:indraneelpothuri@gmail.com)  
 
 ⭐ *If you see messy commits, that’s just progress in disguise.*
