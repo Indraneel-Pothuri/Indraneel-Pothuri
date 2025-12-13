@@ -51,6 +51,21 @@ Combines predictive analytics and automation for efficient resource management a
 
 ---
 
+#### 🧠 Reducing False Positives and Negatives in Medical Image Classification  
+Built multiple CNN architectures (VGG16, ResNet50, DenseNet121, etc.) for medical image diagnosis.  
+Applied data augmentation, transfer learning, and ensemble optimization to enhance precision and recall.  
+**Tech Stack:** TensorFlow, Keras, Python, NumPy, Matplotlib  
+**Highlight:** Achieved 94% accuracy with VGG16 while significantly lowering misclassification rates:contentReference[oaicite:2]{index=2}.  
+
+---
+
+#### ☁️ Face Recognition Attendance System Using AWS  
+Implemented an automated attendance system using AWS Rekognition and Lambda for facial detection and real-time logging.  
+**Tools Used:** AWS Rekognition, S3, DynamoDB, Lambda, Python (Boto3), React  
+**Highlight:** Fully serverless workflow with 98–100% accuracy and real-time synchronization:contentReference[oaicite:3]{index=3}.  
+
+---
+
 #### 🧩 AI vs Real Image Classification  
 An image authenticity analyzer that classifies whether an image is AI-generated or real using CNN-based architectures and dataset curation across multiple domains.  
 
