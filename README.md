@@ -1,9 +1,12 @@
-  Hey, I'm Indraneel 👋 
+<div align="center">
+
+# Hey, I'm Indraneel 👋  
 
 🚀 **AI/ML Explorer** | Blending **data, devices, and decisions** into intelligent systems  
 📍 Hyderabad, India  
 
----
+</div>
+
 
 ### 👨‍💻 About Me  
 
