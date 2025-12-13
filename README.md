@@ -1,4 +1,4 @@
-                                                            Hey, I'm Indraneel 👋 
+  Hey, I'm Indraneel 👋 
 
 🚀 **AI/ML Explorer** | Blending **data, devices, and decisions** into intelligent systems  
 📍 Hyderabad, India  
