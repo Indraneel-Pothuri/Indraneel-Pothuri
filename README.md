@@ -1,4 +1,4 @@
-# Hey, I'm Indraneel 👋 
+                                                                                 # Hey, I'm Indraneel 👋 
 
 🚀 **AI/ML Explorer** | Blending **data, devices, and decisions** into intelligent systems  
 📍 Hyderabad, India  
@@ -59,8 +59,8 @@ A text analytics pipeline that classifies restaurant feedback into positive, neu
 ---
 
 ### 📫 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-💻 [GitHub](https://github.com/yourusername)  
-📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/indraneel-pothuri-3506b22b9/)  
+💻 [GitHub](https://github.com/Indraneel-Pothuri)  
+📧 [yourmail@gmail.com](mailto:indraneelpothuri@gmail.com)  
 
 ⭐ *If you see messy commits, that’s just progress in disguise.*
