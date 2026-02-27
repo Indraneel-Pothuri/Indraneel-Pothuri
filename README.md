@@ -81,4 +81,3 @@ A text analytics pipeline that classifies restaurant feedback into positive, neu
 💻 [GitHub](https://github.com/)  
 📧 [indraneelpothuri@gmail.com](mailto:indraneelpothuri@gmail.com)  
 
-⭐ *If you see messy commits, that’s just progress in disguise.*
