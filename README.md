@@ -24,47 +24,7 @@ My experience includes developing an industrial computer vision inspection workf
 
 
 
-## Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" height="80"/>
-  <img src="https://img.icons8.com/color/96/sql.png" height="80"/>
-</p>
-
-### Machine Learning & Deep Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="80"/>
-</p>
-
-### Databases & AI Applications
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="80"/>
-</p>
-
-### Cloud & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=s3&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="80"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="80"/>
-</p>
-
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 <p>
@@ -279,6 +239,14 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 <a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
 </a>
+
+</div>
+
+
+## Coding Profiles
+<div align="center">
+
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=000000"/></a>
 
 </div>
 
