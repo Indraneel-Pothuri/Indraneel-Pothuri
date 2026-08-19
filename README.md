@@ -293,25 +293,25 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=0D0221"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&hide_border=true" height="180"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Indraneel-Pothuri&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF&sideLabels=E9D5FF&dates=94A3B8"/>
+<img src="https://streak-stats.demolab.com/?user=Indraneel-Pothuri&hide_border=true" height="180"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=E9D5FF&bg_color=0D0221"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true" height="180"/>
 
 </div>
 
 
+
+---
 
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
 </div>
 
@@ -393,7 +393,7 @@ current_focus:
 
 <div align="center">
 
-*"Models that only work in the notebook aren't finished — ship what holds up in production."*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2D1B69,100:0F0524&height=120&section=footer" width="100%"/>
 
