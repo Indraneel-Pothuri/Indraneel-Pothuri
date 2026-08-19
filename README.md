@@ -293,13 +293,17 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&hide_border=true" height="180"/>
+<a href="https://github.com/Indraneel-Pothuri">
+<img src="https://img.shields.io/github/followers/Indraneel-Pothuri?style=for-the-badge&label=Followers&color=6D28D9&labelColor=0F0524"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=Indraneel-Pothuri&hide_border=true" height="180"/>
+<a href="https://github.com/Indraneel-Pothuri?tab=repositories">
+<img src="https://img.shields.io/github/stars/Indraneel-Pothuri?style=for-the-badge&label=Total%20Stars&color=8B5CF6&labelColor=0F0524"/>
+</a>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true" height="180"/>
+<a href="https://github.com/Indraneel-Pothuri?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
