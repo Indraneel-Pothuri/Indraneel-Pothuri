@@ -312,31 +312,30 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 <div align="center"> <img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
 
 
-## 🎯 Current Focus
+##  Current Focus
 
+**Learning**
+- Production-grade ML systems & MLOps
+- Deep Learning and advanced model evaluation
+- NLP and Transformer-based systems
+- Advanced cloud architecture on AWS
 
-Current Focus:
-  learning:
-    - "Production-grade ML systems & MLOps"
-    - "Deep Learning and advanced model evaluation"
-    - "NLP and Transformer-based systems"
-    - "Advanced cloud architecture on AWS"
-  Building:
-    - "End-to-end deployable AI/ML pipelines"
-    - "Computer vision systems for real-world inspection"
-    - "Cloud-based AI applications"
-  Exploring:
-    - "LLM-powered agentic systems"
-    - "Multimodal AI"
-    - "Model interpretability"
-    - "Scalable NLP for financial and unstructured data"
-  Open To:
-    - "AI / ML Engineer opportunities"
-    - "Machine Learning opportunities"
-    - "Applied AI collaborations"
-    - "Open-source contributions"
+**Building**
+- End-to-end deployable AI/ML pipelines
+- Computer vision systems for real-world inspection
+- Cloud-based AI applications
 
+**Exploring**
+- LLM-powered agentic systems
+- Multimodal AI
+- Model interpretability
+- Scalable NLP for financial and unstructured data
 
+**Open to**
+- AI / ML Engineer opportunities
+- Machine Learning opportunities
+- Applied AI collaborations
+- Open-source contributions
 
 
 
