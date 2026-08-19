@@ -1,426 +1,331 @@
 <div align="center">
 
-# POTHURI INDRANEEL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Pothuri%20Indraneel&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Cloud%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-### AI/ML Engineer • Software Engineering • Intelligent Systems
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=180&section=header&text=AI%2FML%20ENGINEER&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Cloud-Based+AI+Systems;Building+Practical+Intelligent+Applications" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+cloud-native+AI+systems;B.Tech+CS+(AI+%26+ML)+%40+Woxsen+University" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6366F1?style=for-the-badge\&labelColor=111827)
-![CGPA](https://img.shields.io/badge/CGPA-8.6%2F10-7C3AED?style=for-the-badge\&labelColor=111827)
-![Location](https://img.shields.io/badge/Hyderabad%2C%20India-4F46E5?style=for-the-badge\&labelColor=111827)
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AI%20%26%20ML)-6D28D9?style=for-the-badge&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/CGPA-8.6%2F10-8B5CF6?style=for-the-badge&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/📍-Hyderabad,%20India-4C1D95?style=for-the-badge&labelColor=0f0524"/>
 
 <br/><br/>
 
-<a href="https://indraneel-pothuri.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/indraneelpothuri/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:indraneelpothuri@gmail.com">
-<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Indraneel-Pothuri">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://indraneel-pothuri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/indraneelpothuri/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:indraneelpothuri@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Indraneel-Pothuri"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Indraneel-Pothuri&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/Indraneel-Pothuri?label=FOLLOWERS&style=flat-square&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/Indraneel-Pothuri?label=STARS&style=flat-square&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=Indraneel-Pothuri&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Indraneel-Pothuri?style=for-the-badge&color=8B5CF6&labelColor=0f0524&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Indraneel-Pothuri?style=for-the-badge&color=A78BFA&labelColor=0f0524&label=STARS"/>
 
 </div>
 
----
+<br/>
 
-## About
+## 🧬 About Me
 
-I am an **AI/ML Engineer** focused on building practical, data-driven intelligent systems across **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Cloud AI**.
+```yaml
+engineer:
+  name: "Pothuri Indraneel"
+  role: "AI / ML Engineer"
+  focus: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Cloud AI"]
+  philosophy: "Ship models that hold up outside the notebook."
+```
 
-My engineering approach combines strong foundations in **Python, SQL, model development, data preprocessing, evaluation, and deployment** with an emphasis on building solutions that address real-world problems. My experience spans industrial computer vision, financial NLP, multimodal deep learning, medical image analysis, and serverless AI applications.
+I'm an **AI/ML Engineer** with hands-on experience building deep learning, NLP, and computer vision systems that go beyond benchmark accuracy — from an industrial defect-detection pipeline in the field to serverless cloud AI on AWS. I care about **production-grade engineering**: clean data pipelines, honest evaluation, and models that are actually deployable. Currently sharpening a full-stack + cloud AI skillset to build end-to-end, product-ready AI systems.
 
-I enjoy taking an AI problem from **data → preprocessing → modeling → evaluation → deployment**, while focusing on measurable performance, robustness, interpretability, and practical usability.
+```yaml
+open_to:
+  - AI / ML Engineer roles
+  - Data Analyst roles
+  - Applied Research collaborations
+  - Open Source contributions
+```
 
-### Engineering Focus
+<br/>
 
-* AI/ML model development and evaluation
-* Deep Learning and Transfer Learning
-* NLP and Transformer-based systems
-* Computer Vision and Image Processing
-* Multimodal AI
-* Cloud-based AI applications
-* Data-driven backend and automation workflows
-* Product-oriented AI experimentation
+## 🛠️ Tech Stack
 
-### Open To
+**Languages**
+<p> <img src="https://skillicons.dev/icons?i=python,js,java,mysql" /> </p>
 
-**AI/ML Engineering • Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Software Engineering • Cloud AI**
-
----
-
-## Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+**Machine Learning & Deep Learning**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
-<p align="center">
-
-![SQL](https://img.shields.io/badge/SQL-6366F1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
+**Backend & Databases**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+**Cloud, DevOps & Tooling**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-### Backend & Databases
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
-</p>
+## 🧠 AI / ML Expertise
 
-### Cloud, DevOps & Tooling
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Deep Learning** | ●●●●○ | CNNs, transfer learning (MobileNetV2, ResNet50, VGG16, ResNet-34), model ensembling |
+| **NLP** | ●●●●○ | NER (CRF, BiLSTM-CRF, BERT, FinBERT), relation extraction, BiLSTM + Attention |
+| **Computer Vision** | ●●●●○ | OpenCV pipelines, CLAHE, Hough Circle Detection, Grad-CAM interpretability |
+| **Generative AI** | ●●●○○ | Prompt engineering, LLM-driven evaluation pipelines |
+| **Cloud AI (AWS)** | ●●●●○ | Rekognition, Lambda, S3, DynamoDB, IAM — serverless ML systems |
+| **MLOps / Evaluation** | ●●●○○ | ROC-threshold tuning, cost-sensitive metrics, F1 / MAE-driven model selection |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,jupyter" />
-</p>
+<br/>
 
----
-
-## AI / ML Expertise
-
-| Domain                      | Proficiency  | Details                                                              |
-| --------------------------- | ------------ | -------------------------------------------------------------------- |
-| Machine Learning            | Advanced     | Scikit-learn, model evaluation, preprocessing, statistical methods   |
-| Deep Learning               | Advanced     | TensorFlow, Keras, CNNs, transfer learning                           |
-| Natural Language Processing | Advanced     | BERT, FinBERT, Transformers, NER, CRF, BiLSTM-CRF                    |
-| Computer Vision             | Advanced     | OpenCV, image processing, CLAHE, thresholding, contour analysis      |
-| Multimodal AI               | Advanced     | Text + image fusion using Transformer and CNN architectures          |
-| Generative AI               | Intermediate | Generative AI concepts, prompt engineering, LLM-powered applications |
-| Cloud AI                    | Intermediate | AWS Lambda, Rekognition, S3, DynamoDB, IAM                           |
-| Model Interpretability      | Intermediate | Grad-CAM, ROC analysis, cost-sensitive evaluation                    |
-| Data & Statistics           | Intermediate | NumPy, Pandas, probability, statistical inference                    |
-| AI Deployment               | Intermediate | Streamlit, AWS serverless architecture, Python-based applications    |
-
----
-
-## Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><strong>Authenticity Analysis of Real vs AI-Generated Images</strong></summary>
+<summary><b>🔍 Authenticity Analysis of Real vs AI-Generated Images</b></summary>
+<br/>
 
-### Authenticity Analysis of Real vs AI-Generated Images
+Systematically addressed the challenge of distinguishing AI-generated images from real ones across multiple domains (faces, food, vehicles), using CNN and transformer-based models with transfer learning, data balancing, and regularization for cross-domain generalization.
 
-A computer vision system designed to distinguish **AI-generated images from real images** across multiple domains including faces, food, and vehicles.
-
-| Metric          | Details                                                |
-| --------------- | ------------------------------------------------------ |
-| **Stack**       | Python, TensorFlow, CNNs, Grad-CAM                     |
-| **Scale**       | Multi-domain image classification                      |
-| **Performance** | Up to **97% accuracy**                                 |
-| **Security**    | Authenticity classification and model interpretability |
-| **Impact**      | Cross-domain AI-generated image detection              |
-| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri) |
-
-CNN and transformer-based approaches were developed using **transfer learning, data balancing, and regularization** to improve generalization across different image domains.
-
-**Grad-CAM** was incorporated to interpret model predictions and analyze misclassification patterns, providing additional visibility into model decision-making.
+| | |
+|---|---|
+| **Stack** | Python, TensorFlow, CNNs, Grad-CAM |
+| **Scale** | Multi-domain image corpus (faces, food, vehicles) |
+| **Performance** | Up to **97%** classification accuracy |
+| **Security** | N/A |
+| **Impact** | Grad-CAM used to interpret predictions and analyze misclassification patterns |
+| **Repository** | *Available on request* |
 
 </details>
 
 <details>
-<summary><strong>Face Recognition Attendance System — AWS</strong></summary>
+<summary><b>📰 Multimodal Fake News Detection (Text + Image Fusion)</b></summary>
+<br/>
 
-### Face Recognition Attendance System — AWS
+Designed and integrated a multimodal deep learning pipeline fusing textual embeddings with visual features for fake news classification, evaluating multiple transformer–CNN architectures for robustness and generalization.
 
-A fully serverless facial recognition system designed for automated attendance management using AWS services.
-
-| Metric          | Details                                                              |
-| --------------- | -------------------------------------------------------------------- |
-| **Stack**       | Python, boto3, AWS Rekognition, AWS Lambda, Amazon S3, DynamoDB, IAM |
-| **Scale**       | Serverless cloud-based workflow                                      |
-| **Performance** | **>98% recognition confidence**                                      |
-| **Security**    | AWS IAM and managed cloud services                                   |
-| **Impact**      | **100% manual attendance effort eliminated**                         |
-| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri)               |
-
-AWS Rekognition was integrated with cloud storage, serverless compute, and database services to create an automated attendance workflow.
-
-The architecture demonstrates practical application of **cloud AI, serverless computing, computer vision, and managed databases**.
+| | |
+|---|---|
+| **Stack** | Python, TensorFlow, DistilBERT, ELECTRA, ResNet |
+| **Scale** | Large-scale multimodal (text + image) dataset |
+| **Performance** | **99.88%** peak accuracy (ELECTRA + ResNet-34) |
+| **Security** | N/A |
+| **Impact** | Demonstrated real-world applicability of cross-modal fusion for misinformation detection |
+| **Repository** | *Available on request* |
 
 </details>
 
 <details>
-<summary><strong>Multimodal Fake News Detection — Text + Image Fusion</strong></summary>
+<summary><b>🩻 Medical Image Classification (FP/FN Reduction)</b></summary>
+<br/>
 
-### Multimodal Fake News Detection — Text + Image Fusion
+Identified limitations in baseline pneumonia detection models and developed CNN-based transfer learning models with ROC-based threshold optimization and cost-sensitive evaluation to minimize false negatives in a clinical-risk-sensitive setting.
 
-A multimodal deep learning pipeline combining **textual embeddings and visual features** for fake news classification.
-
-| Metric          | Details                                                |
-| --------------- | ------------------------------------------------------ |
-| **Stack**       | Python, TensorFlow, DistilBERT, ELECTRA, ResNet        |
-| **Scale**       | Multimodal deep learning classification                |
-| **Performance** | **99.88% accuracy**                                    |
-| **Security**    | Multimodal consistency analysis                        |
-| **Impact**      | Robust text + image misinformation classification      |
-| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri) |
-
-Multiple Transformer–CNN architectures were evaluated to study robustness and generalization across multimodal datasets.
-
-The **ELECTRA + ResNet-34** combination achieved peak classification performance of **99.88% accuracy**.
+| | |
+|---|---|
+| **Stack** | Python, TensorFlow, Keras, CNNs, Scikit-learn, Matplotlib, Seaborn |
+| **Scale** | Chest X-ray dataset, 3 transfer-learning backbones evaluated |
+| **Performance** | F1-score **0.917**, **89.6%** accuracy, false positives cut **158 → 36** |
+| **Security** | N/A |
+| **Impact** | Strengthened diagnostic decision confidence in a clinical-risk context |
+| **Repository** | *Available on request* |
 
 </details>
 
 <details>
-<summary><strong>Medical Image Classification — FP/FN Reduction</strong></summary>
+<summary><b>🪪 Face Recognition Attendance System (AWS)</b></summary>
+<br/>
 
-### Medical Image Classification — FP/FN Reduction
+Built a fully serverless facial recognition attendance system for automated attendance management, integrating AWS Rekognition with cloud storage and database services for secure, scalable workflows.
 
-A CNN-based medical image classification system focused on improving model reliability by explicitly addressing **false positives and false negatives**.
-
-| Metric          | Details                                                   |
-| --------------- | --------------------------------------------------------- |
-| **Stack**       | Python, TensorFlow, Keras, CNNs, Scikit-learn, Matplotlib |
-| **Scale**       | Chest X-ray image classification                          |
-| **Performance** | **89.6% accuracy, 0.917 F1-score**                        |
-| **Security**    | Cost-sensitive evaluation and threshold optimization      |
-| **Impact**      | False positives reduced from **158 to 36**                |
-| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri)    |
-
-MobileNetV2, ResNet50, and VGG16 transfer-learning models were developed and evaluated.
-
-ROC-based threshold optimization and cost-sensitive metrics were applied with a specific focus on minimizing false negatives and improving diagnostic decision confidence.
+| | |
+|---|---|
+| **Stack** | Python (boto3), AWS Rekognition, AWS Lambda, Amazon S3, DynamoDB, IAM |
+| **Scale** | End-to-end serverless cloud deployment |
+| **Performance** | **>98%** recognition confidence |
+| **Security** | IAM-scoped access, S3 + DynamoDB isolation |
+| **Impact** | Eliminated **100%** of manual attendance effort |
+| **Repository** | *Available on request* |
 
 </details>
 
----
+<br/>
 
-## Experience
+## 💼 Experience
 
-### Software Engineer Intern — SANSI RF & Communication Systems Pvt. Ltd.
+<table>
+<tr>
+<td>
 
-**March 2026 – July 2026 · Remote**
+**Software Engineer Intern** · SANSI RF & Communication Systems Pvt. Ltd. *(Remote)*
+`March 2026 – July 2026`
 
-Developed an automated industrial **Computer Vision inspection system** for detecting mesh defects and classifying holes as blocked, deformed, or misaligned.
+Developed an automated computer vision application for industrial mesh defect detection, identifying blocked, deformed, and misaligned holes.
 
-**Scope of Work**
-
-* Developed a Python and OpenCV-based automated defect detection workflow.
-* Implemented **CLAHE, HSV processing, Adaptive Thresholding, Otsu Thresholding, Contour Analysis, and Hough Circle Detection**.
-* Designed inspection outputs covering defect percentage, area coverage, and **SAFE / NOT SAFE** classification.
-* Improved robustness of image processing workflows for industrial inspection scenarios.
-
-**Skills**
+- Implemented CLAHE, HSV conversion, adaptive/Otsu thresholding, contour analysis, and Hough Circle Detection to improve detection robustness
+- Designed an inspection workflow for defect percentage, area coverage, and SAFE / NOT SAFE classification
 
 `Python` `OpenCV` `NumPy` `Matplotlib` `Computer Vision` `Image Processing`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-### AI/ML Intern — Infosys Springboard
+**AI/ML Intern** · Infosys Springboard *(Remote)*
+`August 2025 – October 2025`
 
-**August 2025 – October 2025 · Remote**
+Built an end-to-end NLP data pipeline processing 5,000+ financial documents, extracting structured entities via NER models.
 
-Built an end-to-end financial NLP pipeline for extracting structured information and identifying important financial events from large collections of documents.
+- Achieved **88% F1-score** using CRF, BiLSTM-CRF, BERT, and FinBERT
+- Implemented event detection (mergers, IPOs, earnings calls) via relation extraction, improving recognition accuracy by **22%**
+- Automated financial data ingestion and reporting via table parsing + Yahoo Finance API, cutting manual verification by **30%**
 
-**Scope of Work**
+`Python` `Transformers` `BERT` `FinBERT` `CRF` `BiLSTM` `Financial APIs` `SQL`
 
-* Processed **5,000+ financial documents** using NLP pipelines.
-* Implemented NER using **CRF, BiLSTM-CRF, BERT, and FinBERT**, achieving an **88% F1-score**.
-* Developed event detection for **mergers, IPOs, and earnings calls**, improving recognition accuracy by **22%**.
-* Automated financial data ingestion and reporting using table parsing and the Yahoo Finance API.
-* Reduced manual financial data verification effort by **30%**.
+</td>
+</tr>
+</table>
 
-**Skills**
+<br/>
 
-`Python` `Transformers` `BERT` `FinBERT` `CRF` `BiLSTM` `NLP` `SQL` `Financial APIs`
-
----
-
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-| Recognition                                       | Details                                                                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Top 4 Finalist — Udhgam 2.0 ML Challenge 2026** | Built an NLP regression model using **BiLSTM, Attention Mechanism, and model ensembling**, achieving **MAE 0.149**.             |
-| **Microsoft × Forge Alumnus Code-a-thon 2026**    | Built a **Multi-Round AI Interview Agent** covering ATS-based resume screening, technical interviews, and reasoning evaluation. |
-| **40+ LeetCode Problems**                         | Strengthened algorithmic problem-solving skills through data structures and algorithm practice.                                 |
+| Recognition | Details |
+|---|---|
+| 🥈 **Top 4 Finalist** — Udhgam 2.0 ML Challenge (2026) | Built an NLP regression model using BiLSTM, Attention Mechanism, and model ensembling — **MAE 0.149** |
+| 🤖 **Participant** — Microsoft × Forge Alumnus Code-a-thon (2026) | Built a Multi-Round AI Interview Agent with ATS-based resume screening, technical interviews, and reasoning evaluation |
+| 💻 **40+ Algorithmic Problems Solved** — LeetCode | Strengthened data structures & algorithms problem-solving |
 
 </div>
 
----
+<br/>
 
-## Certifications
+## 📜 Certifications
 
-### LinkedIn Learning
+**LinkedIn Learning**
+<br/>
+<img src="https://img.shields.io/badge/Generative%20AI%3A%20The%20Evolution%20of%20Thoughtful%20Online%20Search-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Generative%20AI%3A%20The%20Evolution%20of%20Thoughtful%20Online%20Search-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)
+**Coursera**
+<br/>
+<img src="https://img.shields.io/badge/Database%20Management%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 
-**Generative AI: The Evolution of Thoughtful Online Search**
+**DeepLearning.AI**
+<br/>
+<img src="https://img.shields.io/badge/Probability%20%26%20Statistics%20for%20ML%20%26%20Data%20Science-8B5CF6?style=for-the-badge&logo=deeplearningdotai&logoColor=white"/>
 
-### Coursera
+<br/>
 
-![Coursera](https://img.shields.io/badge/Coursera-Database%20Management%20Essentials-4F46E5?style=for-the-badge\&logo=coursera\&logoColor=white)
+## 💻 Coding Profile
 
-**Database Management Essentials**
+<p align="left">
+<img src="https://img.shields.io/badge/LeetCode-40%2B%20Problems%20Solved-2E1065?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
 
-### DeepLearning.AI
+<br/>
 
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Probability%20%26%20Statistics%20for%20ML%20%26%20Data%20Science-6366F1?style=for-the-badge)
-
-**Probability & Statistics for ML & Data Science**
-
----
-
-## Coding Profiles
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-40%2B%20Problems-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=0D0221"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Indraneel-Pothuri&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF"/>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=0D0221"/>
 
 </div>
 
----
+<br/>
 
-## GitHub Analytics
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=algolia&no-frame=true&margin-w=10&row=1" />
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraneel-Pothuri&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+yaml
+current_focus:
+  learning:
+    - "Production-grade ML systems & MLOps"
+    - "Full-stack development for AI products"
+    - "Advanced cloud architecture on AWS"
+  building:
+    - "End-to-end deployable AI/ML pipelines"
+    - "Computer vision systems for real-world inspection use cases"
+  exploring:
+    - "LLM-powered agentic systems"
+    - "Scalable NLP for financial & unstructured data"
+  open_to:
+    - "AI / ML Engineer opportunities"
+    - "Data Analyst opportunities"
+    - "Collaborations & open-source contributions"
+    
+
+<br/>
+
+## 📬 Connect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Indraneel-Pothuri&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
+<a href="mailto:indraneelpothuri@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E1065?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/indraneelpothuri/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Indraneel-Pothuri"><img src="https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://indraneel-pothuri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
-
-</div>
-
----
-
-## GitHub Trophies
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+*"Models that only work in the notebook aren't finished — ship what holds up in production."*
 
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraneel-Pothuri&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - NLP and Transformers
-  - Generative AI
-  - Reinforcement Learning
-
-Building:
-  - AI/ML applications
-  - Computer Vision systems
-  - Cloud-based AI solutions
-  - Intelligent automation workflows
-
-Exploring:
-  - Multimodal AI
-  - LLM-powered applications
-  - Model interpretability
-  - Production-oriented ML systems
-
-Open To:
-  - AI/ML Engineering
-  - Machine Learning
-  - Deep Learning
-  - NLP
-  - Computer Vision
-  - Generative AI
-  - Software Engineering
-  - Cloud AI
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:indraneelpothuri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-indraneelpothuri%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/indraneelpothuri/">
-<img src="https://img.shields.io/badge/LinkedIn-Indraneel%20Pothuri-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Indraneel-Pothuri">
-<img src="https://img.shields.io/badge/GitHub-Indraneel--Pothuri-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://indraneel-pothuri.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-indraneel--pothuri-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> **Building intelligent systems that turn data, models, and engineering into measurable impact.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d1b69,100:0f0524&height=120&section=footer" width="100%"/>
 
 </div>
