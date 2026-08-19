@@ -29,17 +29,11 @@
 
 ## 🧬 About Me
 
-yaml
-engineer:
-  name: "Pothuri Indraneel"
-  role: "AI / ML Engineer"
-  focus: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Cloud AI"]
-  philosophy: "Ship models that hold up outside the notebook."
 
 
 I'm an **AI/ML Engineer** with hands-on experience building deep learning, NLP, and computer vision systems that go beyond benchmark accuracy — from an industrial defect-detection pipeline in the field to serverless cloud AI on AWS. I care about **production-grade engineering**: clean data pipelines, honest evaluation, and models that are actually deployable. Currently sharpening a full-stack + cloud AI skillset to build end-to-end, product-ready AI systems.
 
-yaml
+
 open_to:
   - AI / ML Engineer roles
   - Data Analyst roles
