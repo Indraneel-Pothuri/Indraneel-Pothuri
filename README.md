@@ -24,51 +24,31 @@ My experience includes developing an industrial computer vision inspection workf
 
 
 
-## Tech Stack
+##  Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js&theme=dark&perline=3" />
 </p>
 
 ### Machine Learning & Deep Learning
 
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,huggingface,opencv,numpy,pandas&theme=dark&perline=7" />
 </p>
 
-### Backend & Databases
+### Databases & AI Applications
 
 <p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,streamlit&theme=dark&perline=3" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud & Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,git,github,jupyter,vscode&theme=dark&perline=6" />
 </p>
-
 
 
 ## 🛠️ Tech Stack
@@ -277,11 +257,13 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 
 
 ## Coding Profiles
-
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-40%2B%20Problems%20Solved-2E1065?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
