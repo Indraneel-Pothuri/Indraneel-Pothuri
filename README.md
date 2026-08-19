@@ -37,17 +37,6 @@
 ## About Me
 
 
-engineer:
-  name: "Pothuri Indraneel"
-  role: "AI / ML Engineer"
-  focus:
-    - Machine Learning
-    - Deep Learning
-    - Natural Language Processing
-    - Computer Vision
-    - Cloud AI
-  philosophy: "Ship models that hold up outside the notebook."
-
 I'm an **AI/ML Engineer** with hands-on experience building deep learning, NLP, and computer vision systems across industrial inspection, financial intelligence, multimodal classification, medical imaging, and cloud-based AI applications.
 
 I care about **production-oriented engineering**: clean data pipelines, meaningful evaluation, model interpretability, robustness, and solutions that can move beyond experimentation into practical applications.
@@ -58,7 +47,7 @@ My experience includes developing an industrial computer vision inspection workf
 
 **AI / ML Engineering • Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Applied AI • Open Source**
 
----
+
 
 ## Tech Stack
 
