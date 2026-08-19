@@ -314,28 +314,28 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 
 ## 🎯 Current Focus
 
-```yaml
-current_focus:
+
+Current Focus:
   learning:
     - "Production-grade ML systems & MLOps"
     - "Deep Learning and advanced model evaluation"
     - "NLP and Transformer-based systems"
     - "Advanced cloud architecture on AWS"
-  building:
+  Building:
     - "End-to-end deployable AI/ML pipelines"
     - "Computer vision systems for real-world inspection"
     - "Cloud-based AI applications"
-  exploring:
+  Exploring:
     - "LLM-powered agentic systems"
     - "Multimodal AI"
     - "Model interpretability"
     - "Scalable NLP for financial and unstructured data"
-  open_to:
+  Open To:
     - "AI / ML Engineer opportunities"
     - "Machine Learning opportunities"
     - "Applied AI collaborations"
     - "Open-source contributions"
-```
+
 
 
 
