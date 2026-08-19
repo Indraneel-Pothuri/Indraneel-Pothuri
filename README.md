@@ -1,4 +1,4 @@
-3<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Pothuri%20Indraneel&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Cloud%20AI&descAlignY=58&descSize=18" width="100%"/>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🧬 About Me
+##  About Me
 
 
 
@@ -81,7 +81,7 @@ open_to:
 
 <br/>
 
-## 🧠 AI / ML Expertise
+##  AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -94,7 +94,7 @@ open_to:
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
 <summary><b>🔍 Authenticity Analysis of Real vs AI-Generated Images</b></summary>
@@ -131,7 +131,7 @@ Designed and integrated a multimodal deep learning pipeline fusing textual embed
 </details>
 
 <details>
-<summary><b>🩻 Medical Image Classification (FP/FN Reduction)</b></summary>
+<summary><b> Medical Image Classification (FP/FN Reduction)</b></summary>
 <br/>
 
 Identified limitations in baseline pneumonia detection models and developed CNN-based transfer learning models with ROC-based threshold optimization and cost-sensitive evaluation to minimize false negatives in a clinical-risk-sensitive setting.
@@ -166,7 +166,7 @@ Built a fully serverless facial recognition attendance system for automated atte
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 <table>
 <tr>
@@ -204,7 +204,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -218,7 +218,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 📜 Certifications
+##  Certifications
 
 **LinkedIn Learning**
 <br/>
@@ -234,7 +234,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 💻 Coding Profile
+##  Coding Profile
 
 <p align="left">
 <img src="https://img.shields.io/badge/LeetCode-40%2B%20Problems%20Solved-2E1065?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -242,7 +242,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -257,7 +257,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=algolia&no-frame=true&margin-w=10&row=1" />
@@ -265,7 +265,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraneel-Pothuri&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/>
@@ -273,7 +273,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake-dark.svg"/>
@@ -281,7 +281,7 @@ Built an end-to-end NLP data pipeline processing 5,000+ financial documents, ext
 
 <br/>
 
-## 🎯 Current Focus
+##  Current Focus
 
 yaml
 current_focus:
@@ -303,7 +303,7 @@ current_focus:
 
 <br/>
 
-## 📬 Connect
+##  Connect
 
 <div align="center">
 
