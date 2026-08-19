@@ -1,4 +1,4 @@
-<div align="center">
+3<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Pothuri%20Indraneel&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Cloud%20AI&descAlignY=58&descSize=18" width="100%"/>
 
@@ -29,23 +29,23 @@
 
 ## 🧬 About Me
 
-```yaml
+yaml
 engineer:
   name: "Pothuri Indraneel"
   role: "AI / ML Engineer"
   focus: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Cloud AI"]
   philosophy: "Ship models that hold up outside the notebook."
-```
+
 
 I'm an **AI/ML Engineer** with hands-on experience building deep learning, NLP, and computer vision systems that go beyond benchmark accuracy — from an industrial defect-detection pipeline in the field to serverless cloud AI on AWS. I care about **production-grade engineering**: clean data pipelines, honest evaluation, and models that are actually deployable. Currently sharpening a full-stack + cloud AI skillset to build end-to-end, product-ready AI systems.
 
-```yaml
+yaml
 open_to:
   - AI / ML Engineer roles
   - Data Analyst roles
   - Applied Research collaborations
   - Open Source contributions
-```
+
 
 <br/>
 
