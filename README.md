@@ -1,37 +1,12 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6D28D9&height=220&section=header&text=Pothuri%20Indraneel&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Cloud%20AI&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+Cloud-Based+AI+Systems;B.Tech+CS+(AI+%26+ML)+%40+Woxsen+University" alt="Typing SVG"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Pothuri%20Indraneel&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Cloud%20AI&descAlignY=58&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+cloud-native+AI+systems;B.Tech+CS+(AI+%26+ML)+%40+Woxsen+University" alt="Typing SVG" /> <br/> <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AI%20%26%20ML)-6D28D9?style=for-the-badge&labelColor=0f0524"/> <img src="https://img.shields.io/badge/CGPA-8.6%2F10-8B5CF6?style=for-the-badge&labelColor=0f0524"/> <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-4C1D95?style=for-the-badge&labelColor=0f0524"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AI%20%26%20ML)-6D28D9?style=for-the-badge&labelColor=0F0524"/>
-<img src="https://img.shields.io/badge/CGPA-8.6%2F10-8B5CF6?style=for-the-badge&labelColor=0F0524"/>
-<img src="https://img.shields.io/badge/Hyderabad%2C%20India-4C1D95?style=for-the-badge&labelColor=0F0524"/>
+<a href="https://indraneel-pothuri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://www.linkedin.com/in/indraneelpothuri/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:indraneelpothuri@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Indraneel-Pothuri"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://indraneel-pothuri.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/indraneelpothuri/">
-<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:indraneelpothuri@gmail.com">
-<img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Indraneel-Pothuri">
-<img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Indraneel-Pothuri&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Indraneel-Pothuri?style=for-the-badge&color=8B5CF6&labelColor=0F0524&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Indraneel-Pothuri?style=for-the-badge&color=A78BFA&labelColor=0F0524&label=STARS"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Indraneel-Pothuri&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/Indraneel-Pothuri?style=for-the-badge&color=8B5CF6&labelColor=0f0524&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/Indraneel-Pothuri?style=for-the-badge&color=A78BFA&labelColor=0f0524&label=STARS"/> </div> <br/>
 
 
 ## About Me
@@ -201,43 +176,40 @@ AWS Rekognition was integrated with cloud storage, serverless compute, and datab
 
 
 
-## Experience
+##  Experience
 
 ### Software Engineer Intern — SANSI RF & Communication Systems Pvt. Ltd.
-
 **March 2026 – July 2026 · Remote**
 
-Developed an automated **Computer Vision inspection application** for industrial mesh defect detection, identifying blocked, deformed, and misaligned holes.
+Developed an automated industrial **Computer Vision inspection system** for detecting mesh defects and classifying holes as blocked, deformed, or misaligned.
 
 **Scope of Work**
-
-* Developed a Python and OpenCV-based automated defect detection workflow.
-* Implemented **CLAHE, HSV color processing, Adaptive Thresholding, Otsu Thresholding, Contour Analysis, and Hough Circle Detection**.
-* Designed an inspection workflow covering defect percentage, area coverage, and **SAFE / NOT SAFE** classification.
+- Developed a Python and OpenCV-based automated defect detection workflow.
+- Implemented **CLAHE, HSV processing, Adaptive Thresholding, Otsu Thresholding, Contour Analysis, and Hough Circle Detection**.
+- Designed inspection outputs covering defect percentage, area coverage, and **SAFE / NOT SAFE** classification.
+- Improved robustness of image processing workflows for industrial inspection scenarios.
 
 **Skills**
-
 `Python` `OpenCV` `NumPy` `Matplotlib` `Computer Vision` `Image Processing`
 
-
+---
 
 ### AI/ML Intern — Infosys Springboard
-
 **August 2025 – October 2025 · Remote**
 
-Built an end-to-end financial NLP pipeline for extracting structured information and detecting important financial events from unstructured documents.
+Built an end-to-end financial NLP pipeline for extracting structured information and identifying important financial events from large collections of documents.
 
 **Scope of Work**
-
-* Processed **5,000+ financial documents** using NLP pipelines.
-* Implemented NER using **CRF, BiLSTM-CRF, BERT, and FinBERT**, achieving an **88% F1-score**.
-* Implemented event detection for **mergers, IPOs, and earnings calls**, improving recognition accuracy by **22%**.
-* Automated financial data ingestion and reporting using table parsing and Yahoo Finance API integration.
-* Reduced manual financial data verification effort by **30%**.
+- Processed **5,000+ financial documents** using NLP pipelines.
+- Implemented NER using **CRF, BiLSTM-CRF, BERT, and FinBERT**, achieving an **88% F1-score**.
+- Developed event detection for **mergers, IPOs, and earnings calls**, improving recognition accuracy by **22%**.
+- Automated financial data ingestion and reporting using table parsing and the Yahoo Finance API.
+- Reduced manual financial data verification effort by **30%**.
 
 **Skills**
-
 `Python` `Transformers` `BERT` `FinBERT` `CRF` `BiLSTM` `NLP` `SQL` `Financial APIs`
+
+---
 
 
 
@@ -249,31 +221,19 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **Top 4 Finalist — Udhgam 2.0 ML Challenge (2026)** | Built an NLP regression model using **BiLSTM, Attention Mechanism, and model ensembling**, achieving **MAE 0.149**.         |
 | **Microsoft × Forge Alumnus Code-a-thon (2026)**    | Built a **Multi-Round AI Interview Agent** with ATS-based resume screening, technical interviews, and reasoning evaluation. |
-| **40+ Algorithmic Problems — LeetCode**             | Strengthened problem-solving skills through data structures and algorithm practice.                                         |
 
 </div>
 
 
-
 ## Certifications
 
-### LinkedIn Learning
+LinkedIn Learning <br/> <a href="https://drive.google.com/file/d/1IEYUMtyFLK16klVdNf5j_eeq-dcIuA8y/view?usp=sharing"><img src="https://img.shields.io/badge/Generative%20AI%3A%20The%20Evolution%20of%20Thoughtful%20Online%20Search-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/LinkedIn%20Learning-Generative%20AI%3A%20The%20Evolution%20of%20Thoughtful%20Online%20Search-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Coursera <br/> <a href="https://www.coursera.org/account/accomplishments/verify/59TBLVHY7WA5"><img src="https://img.shields.io/badge/Database%20Management%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
 
-**Generative AI: The Evolution of Thoughtful Online Search**
+DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAOBa5I7F1LPKeEQai1/view?usp=sharing"><img src="https://img.shields.io/badge/Probability%20%26%20Statistics%20for%20ML%20%26%20Data%20Science-8B5CF6?style=for-the-badge&logo=deeplearningdotai&logoColor=white"/></a>
 
-### Coursera
-
-<img src="https://img.shields.io/badge/Coursera-Database%20Management%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-
-**Database Management Essentials**
-
-### DeepLearning.AI
-
-<img src="https://img.shields.io/badge/DeepLearning.AI-Probability%20%26%20Statistics%20for%20ML%20%26%20Data%20Science-8B5CF6?style=for-the-badge"/>
-
-**Probability & Statistics for ML & Data Science**
+<br/>
 
 
 
@@ -290,59 +250,18 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 
 ## GitHub Analytics
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=0D0221"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Indraneel-Pothuri&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=0D0221"/> </div> <br/>
 
-<div align="center">
-
-<a href="https://github.com/Indraneel-Pothuri">
-<img src="https://img.shields.io/github/followers/Indraneel-Pothuri?style=for-the-badge&label=Followers&color=6D28D9&labelColor=0F0524"/>
-</a>
-
-<a href="https://github.com/Indraneel-Pothuri?tab=repositories">
-<img src="https://img.shields.io/github/stars/Indraneel-Pothuri?style=for-the-badge&label=Total%20Stars&color=8B5CF6&labelColor=0F0524"/>
-</a>
-
-<a href="https://github.com/Indraneel-Pothuri?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-
-
----
 
 ## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
-
-</div>
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=algolia&no-frame=true&margin-w=10&row=1" /> </div> <br/>
 
 
 ## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraneel-Pothuri&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraneel-Pothuri&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/> </div> <br/>
 
 
 ## Current Focus
-
 
 current_focus:
   learning:
