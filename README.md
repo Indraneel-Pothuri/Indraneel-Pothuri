@@ -71,6 +71,45 @@ My experience includes developing an industrial computer vision inspection workf
 
 
 
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+**Machine Learning & Deep Learning**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+**Cloud & Tools**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+
 ## AI / ML Expertise
 
 | Domain                     | Proficiency | Details                                                                  |
@@ -253,39 +292,50 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=0D0221"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Indraneel-Pothuri&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=0D0221"/> </div> <br/>
 
 
-## GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=algolia&no-frame=true&margin-w=10&row=1" /> </div> <br/>
+<!--
+##  GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Indraneel-Pothuri&theme=algolia&no-frame=true&margin-w=10&row=1" />
+</div>
+
+<br/>
+-->
 
 
 ## Contribution Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraneel-Pothuri&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/> </div> <br/>
 
 
-## Current Focus
 
+## Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
+
+
+## 🎯 Current Focus
+
+```yaml
 current_focus:
   learning:
     - "Production-grade ML systems & MLOps"
     - "Deep Learning and advanced model evaluation"
     - "NLP and Transformer-based systems"
     - "Advanced cloud architecture on AWS"
-
   building:
     - "End-to-end deployable AI/ML pipelines"
     - "Computer vision systems for real-world inspection"
     - "Cloud-based AI applications"
-
   exploring:
     - "LLM-powered agentic systems"
     - "Multimodal AI"
     - "Model interpretability"
     - "Scalable NLP for financial and unstructured data"
-
   open_to:
     - "AI / ML Engineer opportunities"
     - "Machine Learning opportunities"
     - "Applied AI collaborations"
     - "Open-source contributions"
+```
 
 
 
