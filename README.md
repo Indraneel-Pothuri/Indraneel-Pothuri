@@ -33,11 +33,10 @@
 
 </div>
 
----
 
 ## About Me
 
-```yaml
+
 engineer:
   name: "Pothuri Indraneel"
   role: "AI / ML Engineer"
@@ -48,7 +47,6 @@ engineer:
     - Computer Vision
     - Cloud AI
   philosophy: "Ship models that hold up outside the notebook."
-```
 
 I'm an **AI/ML Engineer** with hands-on experience building deep learning, NLP, and computer vision systems across industrial inspection, financial intelligence, multimodal classification, medical imaging, and cloud-based AI applications.
 
@@ -107,7 +105,7 @@ My experience includes developing an industrial computer vision inspection workf
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+
 
 ## AI / ML Expertise
 
@@ -122,7 +120,7 @@ My experience includes developing an industrial computer vision inspection workf
 | **Model Evaluation**       | ●●●●○       | ROC analysis, threshold optimization, F1, MAE, cost-sensitive evaluation |
 | **Model Interpretability** | ●●●○○       | Grad-CAM and analysis of model prediction patterns                       |
 
----
+
 
 ## Featured Projects
 
@@ -212,7 +210,7 @@ AWS Rekognition was integrated with cloud storage, serverless compute, and datab
 
 </details>
 
----
+
 
 ## Experience
 
@@ -232,7 +230,7 @@ Developed an automated **Computer Vision inspection application** for industrial
 
 `Python` `OpenCV` `NumPy` `Matplotlib` `Computer Vision` `Image Processing`
 
----
+
 
 ### AI/ML Intern — Infosys Springboard
 
@@ -252,7 +250,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 `Python` `Transformers` `BERT` `FinBERT` `CRF` `BiLSTM` `NLP` `SQL` `Financial APIs`
 
----
+
 
 ## Achievements
 
@@ -266,7 +264,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 </div>
 
----
+
 
 ## Certifications
 
@@ -288,7 +286,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 **Probability & Statistics for ML & Data Science**
 
----
+
 
 ## Coding Profiles
 
@@ -300,7 +298,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 </div>
 
----
+
 
 ## GitHub Analytics
 
@@ -318,7 +316,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 </div>
 
----
+
 
 ## GitHub Trophies
 
@@ -328,7 +326,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 </div>
 
----
+
 
 ## Contribution Activity
 
@@ -338,7 +336,7 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 </div>
 
----
+
 
 ## Contribution Snake
 
@@ -348,11 +346,11 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 </div>
 
----
+
 
 ## Current Focus
 
-```yaml
+
 current_focus:
   learning:
     - "Production-grade ML systems & MLOps"
@@ -376,9 +374,9 @@ current_focus:
     - "Machine Learning opportunities"
     - "Applied AI collaborations"
     - "Open-source contributions"
-```
 
----
+
+
 
 ## Connect
 
@@ -402,7 +400,7 @@ current_focus:
 
 </div>
 
----
+
 
 <div align="center">
 
