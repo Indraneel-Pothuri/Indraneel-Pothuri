@@ -65,16 +65,16 @@ My experience includes developing an industrial computer vision inspection workf
 
 ## AI / ML Expertise
 
-| Domain                     | Proficiency | Details                                                                  |
-| -------------------------- | ----------- | ------------------------------------------------------------------------ |
-| **Deep Learning**          | ●●●●○       | CNNs, transfer learning, MobileNetV2, ResNet50, VGG16, ResNet-34         |
-| **NLP**                    | ●●●●○       | NER, CRF, BiLSTM-CRF, BERT, FinBERT, relation extraction                 |
-| **Computer Vision**        | ●●●●○       | OpenCV, CLAHE, thresholding, contour analysis, Hough Circle Detection    |
-| **Multimodal AI**          | ●●●●○       | Text + image fusion using Transformer and CNN architectures              |
-| **Generative AI**          | ●●●○○       | Generative AI concepts, prompt engineering, LLM-powered applications     |
-| **Cloud AI — AWS**         | ●●●●○       | Rekognition, Lambda, S3, DynamoDB, IAM, serverless AI                    |
-| **Model Evaluation**       | ●●●●○       | ROC analysis, threshold optimization, F1, MAE, cost-sensitive evaluation |
-| **Model Interpretability** | ●●●○○       | Grad-CAM and analysis of model prediction patterns                       |
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Deep Learning** | ●●●●○ | CNNs, transfer learning, MobileNetV2, ResNet50, VGG16, ResNet-34 |
+| **NLP** | ●●●●○ | NER, CRF, BiLSTM-CRF, BERT, FinBERT, relation extraction |
+| **Computer Vision** | ●●●●○ | OpenCV, CLAHE, thresholding, contour analysis, Hough Circle Detection |
+| **Multimodal AI** | ●●●○○ | Text + image fusion using Transformer and CNN architectures |
+| **Generative AI** | ●●●○○ | Generative AI concepts, prompt engineering, LLM-powered applications |
+| **Cloud AI — AWS** | ●●●○○ | Rekognition, Lambda, S3, DynamoDB, IAM, serverless AI |
+| **Model Evaluation** | ●●●○○ | ROC analysis, threshold optimization, F1, MAE, cost-sensitive evaluation |
+| **Model Interpretability** | ●●●○○ | Grad-CAM and analysis of model prediction patterns |
 
 
 
@@ -227,20 +227,6 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 
 <br/>
 
-
-
-## Coding Profiles
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
-</a>
-
-</div>
 
 
 ## Coding Profiles
