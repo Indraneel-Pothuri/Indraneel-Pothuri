@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # POTHURI INDRANEEL
@@ -8,14 +7,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=180&section=header&text=AI%2FML%20ENGINEER&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Cloud-Based+AI+Systems;Building+Practical+Intelligent+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Cloud-Based+AI+Systems;Building+Practical+Intelligent+Applications" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6366F1?style=for-the-badge&labelColor=111827)
-![CGPA](https://img.shields.io/badge/CGPA-8.6%2F10-7C3AED?style=for-the-badge&labelColor=111827)
-![Location](https://img.shields.io/badge/Hyderabad%2C%20India-4F46E5?style=for-the-badge&labelColor=111827)
+![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6366F1?style=for-the-badge\&labelColor=111827)
+![CGPA](https://img.shields.io/badge/CGPA-8.6%2F10-7C3AED?style=for-the-badge\&labelColor=111827)
+![Location](https://img.shields.io/badge/Hyderabad%2C%20India-4F46E5?style=for-the-badge\&labelColor=111827)
 
 <br/><br/>
 
@@ -52,14 +51,14 @@ I enjoy taking an AI problem from **data → preprocessing → modeling → eval
 
 ### Engineering Focus
 
-- AI/ML model development and evaluation
-- Deep Learning and Transfer Learning
-- NLP and Transformer-based systems
-- Computer Vision and Image Processing
-- Multimodal AI
-- Cloud-based AI applications
-- Data-driven backend and automation workflows
-- Product-oriented AI experimentation
+* AI/ML model development and evaluation
+* Deep Learning and Transfer Learning
+* NLP and Transformer-based systems
+* Computer Vision and Image Processing
+* Multimodal AI
+* Cloud-based AI applications
+* Data-driven backend and automation workflows
+* Product-oriented AI experimentation
 
 ### Open To
 
@@ -72,7 +71,13 @@ I enjoy taking an AI problem from **data → preprocessing → modeling → eval
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+<p align="center">
+
+![SQL](https://img.shields.io/badge/SQL-6366F1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 </p>
 
 ### Frontend
@@ -97,18 +102,18 @@ I enjoy taking an AI problem from **data → preprocessing → modeling → eval
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Advanced | Scikit-learn, model evaluation, preprocessing, statistical methods |
-| Deep Learning | Advanced | TensorFlow, Keras, CNNs, transfer learning |
-| Natural Language Processing | Advanced | BERT, FinBERT, Transformers, NER, CRF, BiLSTM-CRF |
-| Computer Vision | Advanced | OpenCV, image processing, CLAHE, thresholding, contour analysis |
-| Multimodal AI | Advanced | Text + image fusion using Transformer and CNN architectures |
-| Generative AI | Intermediate | Generative AI concepts, prompt engineering, LLM-powered applications |
-| Cloud AI | Intermediate | AWS Lambda, Rekognition, S3, DynamoDB, IAM |
-| Model Interpretability | Intermediate | Grad-CAM, ROC analysis, cost-sensitive evaluation |
-| Data & Statistics | Intermediate | NumPy, Pandas, probability, statistical inference |
-| AI Deployment | Intermediate | Streamlit, AWS serverless architecture, Python-based applications |
+| Domain                      | Proficiency  | Details                                                              |
+| --------------------------- | ------------ | -------------------------------------------------------------------- |
+| Machine Learning            | Advanced     | Scikit-learn, model evaluation, preprocessing, statistical methods   |
+| Deep Learning               | Advanced     | TensorFlow, Keras, CNNs, transfer learning                           |
+| Natural Language Processing | Advanced     | BERT, FinBERT, Transformers, NER, CRF, BiLSTM-CRF                    |
+| Computer Vision             | Advanced     | OpenCV, image processing, CLAHE, thresholding, contour analysis      |
+| Multimodal AI               | Advanced     | Text + image fusion using Transformer and CNN architectures          |
+| Generative AI               | Intermediate | Generative AI concepts, prompt engineering, LLM-powered applications |
+| Cloud AI                    | Intermediate | AWS Lambda, Rekognition, S3, DynamoDB, IAM                           |
+| Model Interpretability      | Intermediate | Grad-CAM, ROC analysis, cost-sensitive evaluation                    |
+| Data & Statistics           | Intermediate | NumPy, Pandas, probability, statistical inference                    |
+| AI Deployment               | Intermediate | Streamlit, AWS serverless architecture, Python-based applications    |
 
 ---
 
@@ -121,14 +126,14 @@ I enjoy taking an AI problem from **data → preprocessing → modeling → eval
 
 A computer vision system designed to distinguish **AI-generated images from real images** across multiple domains including faces, food, and vehicles.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, TensorFlow, CNNs, Grad-CAM |
-| **Scale** | Multi-domain image classification |
-| **Performance** | Up to **97% accuracy** |
-| **Security** | Authenticity classification and model interpretability |
-| **Impact** | Cross-domain AI-generated image detection |
-| **Repository** | [GitHub](https://github.com/Indraneel-Pothuri) |
+| Metric          | Details                                                |
+| --------------- | ------------------------------------------------------ |
+| **Stack**       | Python, TensorFlow, CNNs, Grad-CAM                     |
+| **Scale**       | Multi-domain image classification                      |
+| **Performance** | Up to **97% accuracy**                                 |
+| **Security**    | Authenticity classification and model interpretability |
+| **Impact**      | Cross-domain AI-generated image detection              |
+| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri) |
 
 CNN and transformer-based approaches were developed using **transfer learning, data balancing, and regularization** to improve generalization across different image domains.
 
@@ -143,14 +148,14 @@ CNN and transformer-based approaches were developed using **transfer learning, d
 
 A fully serverless facial recognition system designed for automated attendance management using AWS services.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, boto3, AWS Rekognition, AWS Lambda, Amazon S3, DynamoDB, IAM |
-| **Scale** | Serverless cloud-based workflow |
-| **Performance** | **>98% recognition confidence** |
-| **Security** | AWS IAM and managed cloud services |
-| **Impact** | **100% manual attendance effort eliminated** |
-| **Repository** | [GitHub](https://github.com/Indraneel-Pothuri) |
+| Metric          | Details                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | Python, boto3, AWS Rekognition, AWS Lambda, Amazon S3, DynamoDB, IAM |
+| **Scale**       | Serverless cloud-based workflow                                      |
+| **Performance** | **>98% recognition confidence**                                      |
+| **Security**    | AWS IAM and managed cloud services                                   |
+| **Impact**      | **100% manual attendance effort eliminated**                         |
+| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri)               |
 
 AWS Rekognition was integrated with cloud storage, serverless compute, and database services to create an automated attendance workflow.
 
@@ -165,14 +170,14 @@ The architecture demonstrates practical application of **cloud AI, serverless co
 
 A multimodal deep learning pipeline combining **textual embeddings and visual features** for fake news classification.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, TensorFlow, DistilBERT, ELECTRA, ResNet |
-| **Scale** | Multimodal deep learning classification |
-| **Performance** | **99.88% accuracy** |
-| **Security** | Multimodal consistency analysis |
-| **Impact** | Robust text + image misinformation classification |
-| **Repository** | [GitHub](https://github.com/Indraneel-Pothuri) |
+| Metric          | Details                                                |
+| --------------- | ------------------------------------------------------ |
+| **Stack**       | Python, TensorFlow, DistilBERT, ELECTRA, ResNet        |
+| **Scale**       | Multimodal deep learning classification                |
+| **Performance** | **99.88% accuracy**                                    |
+| **Security**    | Multimodal consistency analysis                        |
+| **Impact**      | Robust text + image misinformation classification      |
+| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri) |
 
 Multiple Transformer–CNN architectures were evaluated to study robustness and generalization across multimodal datasets.
 
@@ -187,14 +192,14 @@ The **ELECTRA + ResNet-34** combination achieved peak classification performance
 
 A CNN-based medical image classification system focused on improving model reliability by explicitly addressing **false positives and false negatives**.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, TensorFlow, Keras, CNNs, Scikit-learn, Matplotlib |
-| **Scale** | Chest X-ray image classification |
-| **Performance** | **89.6% accuracy, 0.917 F1-score** |
-| **Security** | Cost-sensitive evaluation and threshold optimization |
-| **Impact** | False positives reduced from **158 to 36** |
-| **Repository** | [GitHub](https://github.com/Indraneel-Pothuri) |
+| Metric          | Details                                                   |
+| --------------- | --------------------------------------------------------- |
+| **Stack**       | Python, TensorFlow, Keras, CNNs, Scikit-learn, Matplotlib |
+| **Scale**       | Chest X-ray image classification                          |
+| **Performance** | **89.6% accuracy, 0.917 F1-score**                        |
+| **Security**    | Cost-sensitive evaluation and threshold optimization      |
+| **Impact**      | False positives reduced from **158 to 36**                |
+| **Repository**  | [GitHub Profile](https://github.com/Indraneel-Pothuri)    |
 
 MobileNetV2, ResNet50, and VGG16 transfer-learning models were developed and evaluated.
 
@@ -214,10 +219,10 @@ Developed an automated industrial **Computer Vision inspection system** for dete
 
 **Scope of Work**
 
-- Developed a Python and OpenCV-based automated defect detection workflow.
-- Implemented **CLAHE, HSV processing, Adaptive Thresholding, Otsu Thresholding, Contour Analysis, and Hough Circle Detection**.
-- Designed inspection outputs covering defect percentage, area coverage, and **SAFE / NOT SAFE** classification.
-- Improved robustness of image processing workflows for industrial inspection scenarios.
+* Developed a Python and OpenCV-based automated defect detection workflow.
+* Implemented **CLAHE, HSV processing, Adaptive Thresholding, Otsu Thresholding, Contour Analysis, and Hough Circle Detection**.
+* Designed inspection outputs covering defect percentage, area coverage, and **SAFE / NOT SAFE** classification.
+* Improved robustness of image processing workflows for industrial inspection scenarios.
 
 **Skills**
 
@@ -233,11 +238,11 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 **Scope of Work**
 
-- Processed **5,000+ financial documents** using NLP pipelines.
-- Implemented NER using **CRF, BiLSTM-CRF, BERT, and FinBERT**, achieving an **88% F1-score**.
-- Developed event detection for **mergers, IPOs, and earnings calls**, improving recognition accuracy by **22%**.
-- Automated financial data ingestion and reporting using table parsing and the Yahoo Finance API.
-- Reduced manual financial data verification effort by **30%**.
+* Processed **5,000+ financial documents** using NLP pipelines.
+* Implemented NER using **CRF, BiLSTM-CRF, BERT, and FinBERT**, achieving an **88% F1-score**.
+* Developed event detection for **mergers, IPOs, and earnings calls**, improving recognition accuracy by **22%**.
+* Automated financial data ingestion and reporting using table parsing and the Yahoo Finance API.
+* Reduced manual financial data verification effort by **30%**.
 
 **Skills**
 
@@ -249,11 +254,11 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Top 4 Finalist — Udhgam 2.0 ML Challenge 2026** | Built an NLP regression model using **BiLSTM, Attention Mechanism, and model ensembling**, achieving **MAE 0.149**. |
-| **Microsoft × Forge Alumnus Code-a-thon 2026** | Built a **Multi-Round AI Interview Agent** covering ATS-based resume screening, technical interviews, and reasoning evaluation. |
-| **40+ LeetCode Problems** | Strengthened algorithmic problem-solving skills through data structures and algorithm practice. |
+| Recognition                                       | Details                                                                                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Top 4 Finalist — Udhgam 2.0 ML Challenge 2026** | Built an NLP regression model using **BiLSTM, Attention Mechanism, and model ensembling**, achieving **MAE 0.149**.             |
+| **Microsoft × Forge Alumnus Code-a-thon 2026**    | Built a **Multi-Round AI Interview Agent** covering ATS-based resume screening, technical interviews, and reasoning evaluation. |
+| **40+ LeetCode Problems**                         | Strengthened algorithmic problem-solving skills through data structures and algorithm practice.                                 |
 
 </div>
 
@@ -263,13 +268,13 @@ Built an end-to-end financial NLP pipeline for extracting structured information
 
 ### LinkedIn Learning
 
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Generative%20AI%3A%20The%20Evolution%20of%20Thoughtful%20Online%20Search-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Generative%20AI%3A%20The%20Evolution%20of%20Thoughtful%20Online%20Search-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)
 
 **Generative AI: The Evolution of Thoughtful Online Search**
 
 ### Coursera
 
-![Coursera](https://img.shields.io/badge/Coursera-Database%20Management%20Essentials-4F46E5?style=for-the-badge&logo=coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-Database%20Management%20Essentials-4F46E5?style=for-the-badge\&logo=coursera\&logoColor=white)
 
 **Database Management Essentials**
 
@@ -384,7 +389,7 @@ Open To:
   - Generative AI
   - Software Engineering
   - Cloud AI
-````
+```
 
 ---
 
@@ -419,4 +424,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
-```
