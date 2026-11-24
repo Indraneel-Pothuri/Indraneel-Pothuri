@@ -237,12 +237,12 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 </div>
 
 
-
+<!--
 ## GitHub Analytics
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Indraneel-Pothuri&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=0D0221"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Indraneel-Pothuri&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraneel-Pothuri&layout=compact&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=0D0221"/> </div> <br/>
 
 
-<!--
+
 ##  GitHub Trophies
 
 <div align="center">
@@ -250,7 +250,7 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 </div>
 
 <br/>
--->
+
 
 
 ## Contribution Activity
@@ -261,6 +261,7 @@ DeepLearning.AI <br/> <a href="https://drive.google.com/file/d/1DYQP7g74mRbj4lAO
 ## Contribution Snake
 <div align="center"> <img src="https://raw.githubusercontent.com/Indraneel-Pothuri/Indraneel-Pothuri/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
 
+-->
 
 ##  Current Focus
 
